@@ -14,7 +14,7 @@ which involve Reverse Engineering, creating Low Level Modifications and infrastr
 
 # 🏆 Achievements:
 
-- Computer Science Mentor at Aston University (2024 - Present)
+- Computer Science Mentor at Aston University (2024 - 2025)
 
 - Programmer on Sonic Riders: Tournament Edition (2024 - Present)
 
