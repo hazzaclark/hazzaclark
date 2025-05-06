@@ -12,6 +12,10 @@ I'm an aspiring Computer Architect looking to become a Doctor in my relevant fie
 I highly leverage C/ASM for my Low Level endeavours 
 which involve Reverse Engineering, creating Low Level Modifications and infrastructures using that RE knowledge.
 
+I heavily specialise in the study and understanding of the architectural design of Computers, which allows me to flourish in my works
+
+Check out my best works in the Pinned!
+
 # 🏆 Achievements:
 
 - Computer Science Mentor at Aston University (2024 - 2025)
