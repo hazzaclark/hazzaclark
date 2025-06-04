@@ -14,7 +14,7 @@ which involve Reverse Engineering, creating Low Level Modifications and infrastr
 
 I heavily specialise in the study and understanding of the architectural design of Computers, which allows me to flourish in my works
 
-I have also been dabbling into working with C# recently - creating projects encompassing the same field of Computing I love but with the intrinsic functionality that C# offers out of the box
+I have also been dabbling with C# recently - creating projects encompassing the same field of Computing I love but with the intrinsic functionality that C# offers out of the box
 
 Check out my best works in the Pinned!
 
