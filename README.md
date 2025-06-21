@@ -12,7 +12,9 @@ I'm an aspiring Computer Architect looking to become a Doctor in my relevant fie
 I highly leverage C/ASM for my Low Level endeavours 
 which involve Reverse Engineering, creating Low Level Modifications and infrastructures using that RE knowledge.
 
-I heavily specialise in the study and understanding of the architectural design of Computers, which allows me to flourish in my works
+I heavily specialise in the study and understanding of the architectural design of Computers, which allows me to flourish in my works.
+
+Such is the case with using C and other low level languages, is the need to study the intrinsic nature of how everything works. As such, I have become more infatuated with the study into the enigmatic design and intricacies with creating memory-efficient and secure software.
 
 I have also been dabbling with C# recently - creating projects encompassing the same field of Computing I love but with the intrinsic functionality that C# offers out of the box
 
