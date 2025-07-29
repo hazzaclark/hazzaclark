@@ -22,6 +22,8 @@ Check out my best works in the Pinned!
 
 # 🏆 Achievements:
 
+- Aston Computer Science Society Committee Member and Graphic Design (2025 - Present)
+
 - Computer Science Mentor at Aston University (2024 - 2025)
 
 - Programmer on Sonic Riders: Tournament Edition (2024 - Present)
