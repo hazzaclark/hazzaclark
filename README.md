@@ -16,7 +16,7 @@ I heavily specialise in the study and understanding of the architectural design 
 
 Such is the case with using C and other low level languages, is the need to study the intrinsic nature of how everything works. As such, I have become more infatuated with the study into the enigmatic design and intricacies with creating memory-efficient and secure software.
 
-I have also been dabbling with C# recently - creating projects encompassing the same field of Computing I love but with the intrinsic functionality that C# offers out of the box
+An area of interest that has caught my eye recently is the technical challenges of compiler theory and static recompilation. Working on my [Hitachi SuperH Instruction Decoder](https://github.com/hazzaclark/catherine) has been a testament to that - exploring the concepts of creating a simple and scalable API for decoding and recompiling between architectures.
 
 Check out my best works in the Pinned!
 
