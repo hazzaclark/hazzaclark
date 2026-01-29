@@ -2,7 +2,6 @@
 <p align="center"><br>
   <samp>
     「 Computer Science Bachelors of Science Candidate @ <b>Aston University</b> 」<br>
-    ʟᴏᴠᴇʀ ᴏꜰ ᴀʟʟ ᴛʜɪɴɢꜱ ʟᴏᴡ ʟᴇᴠᴇʟ
   </samp>
 </p>
 
