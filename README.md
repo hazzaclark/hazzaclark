@@ -8,13 +8,9 @@
 
 # About Me:
 
-I'm an aspiring Computer Architect looking to become a Doctor in my relevant field, as such my profiency lies in C/C++ and ASM. 
-I highly leverage C/ASM for my Low Level endeavours 
-which involve Reverse Engineering, creating Low Level Modifications and infrastructures using that RE knowledge.
+I'm an aspiring Computer Architect looking to become a Doctor in my relevant field, as such my profiency lies in C/C++ and Assembly. My primary skills involve Reverse Engineering, Low Level infrastructures, and understanding of Systems Engineering through Emulation and Disassembly.
 
 I heavily specialise in the study and understanding of the architectural design of Computers, which allows me to flourish in my works.
-
-Such is the case with using C and other low level languages, is the need to study the intrinsic nature of how everything works. As such, I have become more infatuated with the study into the enigmatic design and intricacies with creating memory-efficient and secure software.
 
 An area of interest that has caught my eye recently is the technical challenges of compiler theory and static recompilation. Working on my [Hitachi SuperH Instruction Decoder](https://github.com/hazzaclark/catherine) has been a testament to that - exploring the concepts of creating a simple and scalable API for decoding and recompiling between architectures.
 
