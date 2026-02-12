@@ -17,7 +17,7 @@ Check out my best works in the Pinned!
 
 # 🏆 Achievements:
 
-- Contributer to Retro Rewind - a prolific Mario Kart Wii Mod 
+- Programmer on Retro Rewind - a prolific Mario Kart Wii Mod (2026 - Present)
 
 - Aston Computer Science Society Committee Member and Graphic Designer (2025 - Present)
 
